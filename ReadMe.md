@@ -4,20 +4,7 @@
 
 Pick a book:
 
-<a href="https://md-poll.vercel.app/api/polls/db483d43-9355-48c9-b156-aebf77929db2/options/0/vote?close" target="_blank">
-  <img src="https://md-poll.vercel.app/api/polls/db483d43-9355-48c9-b156-aebf77929db2/options/0/img" alt="Book 1" width="300" height="34"/>
-</a>
-<br/>
-<a href="https://md-poll.vercel.app/api/polls/db483d43-9355-48c9-b156-aebf77929db2/options/1/vote?close" target="_blank">
-  <img src="https://md-poll.vercel.app/api/polls/db483d43-9355-48c9-b156-aebf77929db2/options/1/img" alt="Book 5" width="300" height="34"/>
-</a>
-<br/>
-<a href="https://md-poll.vercel.app/api/polls/db483d43-9355-48c9-b156-aebf77929db2/options/2/vote?close" target="_blank">
-  <img src="https://md-poll.vercel.app/api/polls/db483d43-9355-48c9-b156-aebf77929db2/options/0/img" alt="Book 7" width="300" height="34"/>
-</a>
-<br/>
-<small>Click on the option you want to vote.</small><br/>
-
+https://docs.google.com/forms/d/1jXRJbc8M9kYssBoRRm1jzXGfa5fcPsKLhvDPgWXQKEc/edit
 
 ## List
 |                                                  | Title                                                            | Recommender              | Genre                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
