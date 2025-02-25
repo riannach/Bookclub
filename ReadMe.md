@@ -1,5 +1,9 @@
 
-# March Book Club Suggestions
+# Next Book Club Suggestions
+## Date 
+In person: April 6th, 5-7pm 
+Online: April 6th, 2-4pm 
+
 ## Poll
 
 Pick a book:
