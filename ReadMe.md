@@ -6,14 +6,12 @@ In person: April 6th, 5-7pm
 Online: April 6th, 2-4pm 
 
 ## Book
-In person: 
 
-| ![](Assets/Guernsey_lit.png) | Guernsey literary and potato peel pie society<br><br>(291 pages) | Ari | Historical \fiction |
-| ---------------------------- | ---------------------------------------------------------------- | --- | ------------------- |
-Online:
+| Location  |                                      | Title                                                            | Recommender | Genre               |
+| --------- | ------------------------------------ | ---------------------------------------------------------------- | ----------- | ------------------- |
+| In person | ![](Assets/Guernsey_lit.png)         | Guernsey literary and potato peel pie society<br><br>(291 pages) | Ari         | Historical \fiction |
+| Online    | ![](Assets/Pasted20250223125243.png) | The New Life by Tom Crewe<br><br>(392 pages)<br>                 | Guardian    | Historical Fiction  |
 
-| ![](Assets/Pasted20250223125243.png) | The New Life by Tom Crewe<br><br>(392 pages)<br> | Guardian | Historical Fiction |
-| ------------------------------------ | ------------------------------------------------ | -------- | ------------------ |
 
 
 ## Last Time's Poll
